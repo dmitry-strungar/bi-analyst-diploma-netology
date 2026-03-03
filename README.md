@@ -1,60 +1,60 @@
-# Diploma of Professional Retraining — BI Analyst (Netology)
+# Диплом о профессиональной переподготовке — BI-аналитик (Нетология)
 
-## Description
+## Описание
 
-This repository contains my diploma of professional retraining in the field of Business Intelligence analytics, issued by Netology upon completion of the professional BI Analyst program.
+Данный репозиторий содержит мой диплом о профессиональной переподготовке в области Business Intelligence аналитики, выданный Нетологией по завершении программы профессиональной подготовки BI Analyst.
 
-The program covered core analytical competencies including data analysis, SQL, Python, and BI tools, as well as practical work on real-world analytical projects.
-
----
-
-## Program Information
-
-**Program:** BI Analyst — Professional Retraining  
-**Institution:** Netology  
-**Format:** Online  
-**Duration:** May 2025 — April 2026  
-**Qualification awarded:** BI Analyst  
+Программа охватывала ключевые аналитические компетенции, включая анализ данных, SQL, Python и BI-инструменты, а также практическую работу над реальными аналитическими проектами.
 
 ---
 
-## Skills and competencies acquired
+## Информация о программе
 
-During the program, I developed practical skills in:
+**Программа:** BI Analyst — профессиональная переподготовка  
+**Образовательная организация:** Нетология  
+**Формат:** Онлайн  
+**Период обучения:** Май 2025 — Апрель 2026  
+**Присвоенная квалификация:** BI-аналитик  
 
-- SQL (JOIN, CTE, window functions, aggregations)
+---
+
+## Полученные навыки и компетенции
+
+В ходе программы были сформированы практические навыки в области:
+
+- SQL (JOIN, CTE, оконные функции, агрегирования)
 - Python (Pandas, NumPy, Matplotlib)
-- Data visualization (Power BI, Tableau, Yandex DataLens)
-- Data modeling and dashboard development
-- Product analytics (funnel, retention, conversion)
-- Business metrics analysis (LTV, revenue, segmentation)
-- Hypothesis testing and statistical analysis
+- Визуализации данных (Power BI, Tableau, Yandex DataLens)
+- Моделирования данных и разработки дашбордов
+- Продуктовой аналитики (воронка, retention, конверсия)
+- Анализа бизнес-метрик (LTV, выручка, сегментация)
+- Проверки гипотез и статистического анализа
 
 ---
 
-## Repository contents
+## Содержимое репозитория
 
-- Diploma of professional retraining (BI Analyst)
-
----
-
-## Notes
-
-This diploma confirms completion of a comprehensive professional retraining program and supports the practical portfolio of analytical projects available in my GitHub profile.
+- Диплом о профессиональной переподготовке (BI-аналитик)
 
 ---
 
-## Related portfolio projects
+## Примечания
 
-My BI and analytics portfolio is available in other repositories in this GitHub profile and includes:
-
-- Product analytics (funnel, retention, monetization)
-- BI dashboards (Power BI, Tableau)
-- SQL analytics projects
-- Statistical analysis in Python
-- Business and customer analytics
+Данный диплом подтверждает завершение комплексной программы профессиональной переподготовки и дополняет практическое портфолио аналитических проектов, представленное в моем GitHub-профиле.
 
 ---
 
-**Status:** Completed  
-**Level:** Junior BI Analyst
+## Связанные проекты портфолио
+
+Мое портфолио BI и аналитических проектов представлено в других репозиториях данного GitHub-профиля и включает:
+
+- Продуктовую аналитику (воронка, retention, монетизация)
+- BI-дашборды (Power BI, Tableau)
+- SQL-проекты
+- Статистический анализ в Python
+- Бизнес- и клиентскую аналитику
+
+---
+
+**Статус:** Завершено  
+**Уровень:** Junior BI-аналитик
