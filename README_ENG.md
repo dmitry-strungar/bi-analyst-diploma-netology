@@ -23,7 +23,7 @@ The program covered core analytical competencies including data analysis, SQL, P
 During the program, I developed practical skills in:
 
 - SQL (JOIN, CTE, window functions, aggregations)
-- Python (Pandas, NumPy, Matplotlib)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Data visualization (Power BI, Tableau, Yandex DataLens)
 - Data modeling and dashboard development
 - Product analytics (funnel, retention, conversion)
@@ -50,7 +50,7 @@ My BI and analytics portfolio is available in other repositories in this GitHub 
 
 - Product analytics (funnel, retention, monetization)
 - BI dashboards (Power BI, Tableau)
-- SQL analytics projects
+- SQL analytics project
 - Statistical analysis in Python
 - Business and customer analytics
 
