@@ -53,4 +53,3 @@ My BI and analytics portfolio is available in other repositories in this GitHub 
 - SQL analytics project
 - Statistical analysis in Python
 - Business and customer analytics
----
