@@ -1,4 +1,4 @@
-# Diploma of Professional Retraining — BI Analyst (Netology)
+# Diploma of Professional Retraining - BI Analyst (Netology)
 
 ## Description
 
@@ -10,10 +10,10 @@ The program covered core analytical competencies including data analysis, SQL, P
 
 ## Program Information
 
-**Program:** BI Analyst — Professional Retraining  
+**Program:** BI Analyst - Professional Retraining  
 **Institution:** Netology  
 **Format:** Online  
-**Duration:** May 2025 — April 2026  
+**Duration:** May 2025 - April 2026  
 **Qualification awarded:** BI Analyst  
 
 ---
@@ -53,8 +53,4 @@ My BI and analytics portfolio is available in other repositories in this GitHub 
 - SQL analytics project
 - Statistical analysis in Python
 - Business and customer analytics
-
 ---
-
-**Status:** Completed  
-**Level:** Junior BI Analyst
